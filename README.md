@@ -1,4 +1,4 @@
-# banco-imobiliario
+# Banco Imobiliário
 O Desafio
 
 Considere o seguinte jogo hipotético muito semelhante a Banco Imobiliário, onde várias de suas mecânicas
